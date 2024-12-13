@@ -1,7 +1,7 @@
 ![hi_there](https://github.com/vehbiOzcan/vehbiOzcan/assets/98270478/a7cd5571-8260-41e6-b860-965a550f8402)
 
 # 💫 About Me:
-🔭 I’m currently working on Express.js React.js Tailwind CSS MongoDB<br>🌱 I’m currently learning Python<br>🖼 My hobbies are pixelart and design
+🔭 I’m currently working on Java Express.js React.js MongoDB<br>🌱 I’m currently learning Spring Boot<br>🖼 My hobbies are pixelart and design
 
 
 ## 🌐 Socials:
